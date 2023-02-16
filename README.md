@@ -1,1 +1,1 @@
-# westwoodproject.github.io
+# Westwood Project - A Minecraft Server
